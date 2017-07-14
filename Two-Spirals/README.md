@@ -1,4 +1,5 @@
 
+![png](NNStructure.jpeg)
 
 ```python
 # Solution for two-spiral problem created by CaTheother
